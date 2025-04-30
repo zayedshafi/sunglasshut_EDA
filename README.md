@@ -41,6 +41,7 @@ Over the past year and a half, I've been juggling my studies for a master's degr
 •	Two URLs scraped: one sorting from lowest to highest price, the other from highest to lowest.
 
 •	Dual scraping approach ensures complete coverage of product list due to page limitations.
+
 •	Duplicates removed during data transformation process to ensure data integrity.
 
 •	Apart from duplicate rows a lot of string manipulation is performed to remove unwanted characters.
